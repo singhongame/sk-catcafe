@@ -16,7 +16,7 @@ Features/Configuration:
 
 - Download the script
 - For QBCore Add item Name Into Items.Lua
-``
+```
     -- cat cafe items
     bmochi 						= {name = 'bmochi',  	     			label = 'Blue Mochi',	 			weight = 100, 		type = 'item', 		image = 'mochiblue.png', 		unique = false, 	useable = true, 	shouldClose = true,   	combinable = nil,   description = '', ['hunger'] = math.random(40, 50) },
 	pmochi 						= {name = 'pmochi',  	     			label = 'Pink Mochi',	 			weight = 100, 		type = 'item', 		image = 'mochipink.png', 		unique = false, 	useable = true, 	shouldClose = true,   	combinable = nil,   description = '', ['hunger'] = math.random(40, 50) },
@@ -82,5 +82,5 @@ ensure sk-catcafe
 
 # Support
 
-
+# Buy Here: https://kumarsk.tebex.io/package/6149569
 
